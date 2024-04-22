@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "download": "^8.0.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
